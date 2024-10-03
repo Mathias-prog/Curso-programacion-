@@ -6,7 +6,7 @@ Este repositorio corresponde al utilizado en el curso de programacion del Colegi
 
 
 
-## Modo de usa
+## Modo de uso
 Pra utilizar el script de organizacion de carpetas, diríjase al directorio ./primerPrograma/ y ejecute eel siguiente comando:
 
 ```
